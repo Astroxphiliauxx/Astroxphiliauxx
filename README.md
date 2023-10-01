@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Astroxphiliauxx
-- 👀 I’m interested in coding and sports
+- 👋 Hi, I’m Sarvesh Kumar Yadav
+- 👀 I’m interested in coding, sports and development
 - 🌱 I’m currently doing my graduation
 - 📫 How to reach me ...@astroxphiliauxx@gmail.com
 
