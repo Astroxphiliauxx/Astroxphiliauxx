@@ -2,7 +2,7 @@
 <h4 align="center">A passionate geek dives into the world of 0's & 1's</h4>
 
 
-
+<p align="left"> <a href="https://twitter.com/sarvxshyadav" target="blank"><img src="https://img.shields.io/twitter/follow/sarvxshyadav?logo=twitter&style=for-the-badge" alt="sarvxshyadav" /></a> </p>
 
 
 <img align="right" alt="coding" width="350" height="250" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
