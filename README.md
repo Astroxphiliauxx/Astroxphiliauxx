@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **OFF_THE_MAP ;)**
 
-- 🌱 I’m currently learning **Cybersecurity, bLoC**
+- 🌱 I’m currently learning **Cybersecurity, BLoC**
 
 - 💬 Ask me about **Flutter**
 
