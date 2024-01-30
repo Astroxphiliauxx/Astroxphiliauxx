@@ -27,7 +27,7 @@
 <a href="https://www.codechef.com/users/astroxphiliaux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="astroxphiliaux" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/astroxphiliauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="astroxphiliauxx" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/astroxphiliauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="astroxphiliauxx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sarvesh_yadav_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvesh_yadav_" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/SarvxshYadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SarvxshYadav" height="30" width="40" /></a>
 <a href="https://discord.gg/Sarvesh#2424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sarvesh#2424" height="30" width="40" /></a>
 </p>
 </br>
