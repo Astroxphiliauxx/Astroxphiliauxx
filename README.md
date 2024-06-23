@@ -1,4 +1,4 @@
-<h1 align="center">Hello There !! 👋</h1>
+<h1 align="center">Hello There !! </h1>
 <div align=center>
           <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Sarveshh;Flutter+Developer;Problem+Solver;Open+Source+Contributor" alt="Headline" />
 </div> 
