@@ -10,7 +10,6 @@
 <p align="left"> <a href="https://twitter.com/sarvxshyadav" target="blank"><img src="https://img.shields.io/twitter/follow/sarvxshyadav?logo=twitter&style=for-the-badge" alt="sarvxshyadav" /></a> </p>
 
 
-- 🔭 I’m currently working on **OFF_THE_MAP ;)**
 
 - 🌱 I’m currently learning **Cybersecurity, BLoC**
 
