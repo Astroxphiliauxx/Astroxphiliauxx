@@ -1,24 +1,25 @@
-<h1 align="center">Hello There !! </h1>
+<h2 align="center">Hello Visitor ;) </h1>
+</br>
+</br>
 <div align=center>
-          <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Sarveshh;Flutter+Developer;Problem+Solver;Open+Source+Contributor" alt="Headline" />
+          <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Sarvesh+Yadav;I'm+a+Flutter+Developer;I'm+a+Problem+Solver;I'm+a+Open+Source+Contributor" alt="Headline" />
 </div> 
 <h4 align="center">A passionate geek dives into the world of 0's & 1's</h4>
 </br>
 </br>
 
+## I’m Sarvesh Kumar Yadav
+### Sophomore, AKGEC
 
-<p align="left"> <a href="https://twitter.com/sarvxshyadav" target="blank"><img src="https://img.shields.io/twitter/follow/sarvxshyadav?logo=twitter&style=for-the-badge" alt="sarvxshyadav" /></a> </p>
 
-
-
-- 🌱 I’m currently learning **Cybersecurity, BLoC**
+- 🌱 I’m currently learning **SMTHNG MYSTERIOUS**
 
 - 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **astroxphiliauxx@gmail.com**
  </br>
 
-<h3 align="left">Connect with me:</h3> 
+## Connect with me -
 <p align="left">
 <a href="https://instagram.com/sarvxshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvxshyadav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/astroxphiliaux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="astroxphiliaux" height="30" width="40" /></a>
@@ -29,11 +30,21 @@
 </p>
 </br>
 
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+</br>
+
+## My GitHub Stats
+![Ravi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Astroxphiliauxx&show_icons=true&theme=github_dark&hide_border=true)
+
+## Languages I Use Often (in my repos)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroxphiliauxx&theme=github_dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/Astroxphiliauxx)
+
+## Profile Views
+![](https://komarev.com/ghpvc/?username=Astroxphiliauxx&style=flat-square)
 
 
 
 
 
-<p align="center"><img align="center" width="700" height="300" src="https://github-readme-streak-stats.herokuapp.com/?user=astroxphiliauxx&" alt="astroxphiliauxx" /></p>
+<p align="center"><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=astroxphiliauxx&theme=github-dark" alt="astroxphiliauxx" /></p>
