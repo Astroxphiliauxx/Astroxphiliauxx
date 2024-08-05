@@ -1,9 +1,13 @@
 <h2 align="center">Hello Visitor ;) </h1>
 </br>
 </br>
+
+<!-- sach batana, ye wla code sexy lga na !! chl bhai le le tu bhi-->
 <div align=center>
           <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Sarvesh+Yadav;I'm+a+Flutter+Developer;I'm+a+Problem+Solver;I'm+a+Open+Source+Contributor" alt="Headline" />
 </div> 
+
+
 <h4 align="center">A passionate geek dives into the world of 0's & 1's</h4>
 </br>
 </br>
@@ -21,7 +25,6 @@
 
 ## Connect with me -
 <p align="left">
-<a href="https://instagram.com/sarvxshyadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sarvxshyadav" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/astroxphiliaux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="astroxphiliaux" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/astroxphiliauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="astroxphiliauxx" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/astroxphiliauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="astroxphiliauxx" height="30" width="40" /></a>
