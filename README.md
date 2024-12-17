@@ -4,7 +4,7 @@
 
 <!-- sach batana, ye wla code sexy lga na !! chl bhai le le tu bhi-->
 <div align=center>
-          <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Sarvesh+Yadav;I'm+a+Flutter+Developer;I'm+a+Problem+Solver;I'm+a+Open+Source+Contributor" alt="Headline" />
+          <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Sarvesh+Yadav;I'm+a+Flutter+Developer;I'm+a+Problem+Solver;I'm+an+Open+Source+Contributor" alt="Headline" />
 </div> 
 
 
