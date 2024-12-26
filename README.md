@@ -1,12 +1,13 @@
-<h2 align="center">Hello Visitor ;) </h1>
+<h2 align="center">
+  Hello Visitor 😉
+  <img align="right" src="https://komarev.com/ghpvc/?username=Astroxphiliauxx&style=flat-square" alt="Profile Views" />
+</h2>
 </br>
 </br>
 
-<!-- sach batana, ye wla code sexy lga na !! chl bhai le le tu bhi-->
-<div align=center>
+<div align="center">
           <img src="https://readme-typing-svg.herokuapp.com?color=%&size=32&center=true&vCenter=true&width=600&height=50&lines=I'm+Sarvesh+Yadav;I'm+a+Flutter+Developer;I'm+a+Problem+Solver;I'm+an+Open+Source+Contributor" alt="Headline" />
 </div> 
-
 
 <h4 align="center">A passionate geek dives into the world of 0's & 1's</h4>
 </br>
@@ -14,7 +15,6 @@
 
 ## I’m Sarvesh Kumar Yadav
 ### Junior, AKGEC
-
 
 - 🌱 I’m currently learning **SMTHNG MYSTERIOUS**
 
@@ -24,17 +24,120 @@
  </br>
 
 ## Connect with me -
-<p align="left">
-<a href="https://www.codechef.com/users/astroxphiliaux" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="astroxphiliaux" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/astroxphiliauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="astroxphiliauxx" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/astroxphiliauxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="astroxphiliauxx" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/SarvxshYadav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SarvxshYadav" height="30" width="40" /></a>
-<a href="https://discord.gg/Sarvesh#2424" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sarvesh#2424" height="30" width="40" /></a>
-</p>
+<table >
+  <tr align="left">
+    <td align="center" width="96">
+      <a href="https://www.codechef.com/users/astroxphiliaux" >
+        <img align="center" src="https://img.icons8.com/?size=100&id=eqDiO9L02aEu&format=png&color=000000" height="48" width="48" />
+      </a>
+      <br> CodeChef
+    </td>
+            <td align="center" width="96">
+      <a href="https://leetcode.com/u/SarvxshYadav/" >
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="48" width="48" />
+      </a>
+      <br> Leetcode
+    </td>
+            <td align="center" width="96">
+      <a href="https://www.hackerrank.com/profile/astroxphiliauxx" >
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="48" width="48" />
+      </a>
+      <br> Hackerrank
+    </td>
+            <td align="center" width="96">
+      <a href=https://codeforces.com/profile/astroxphiliauxx"" >
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="48" width="48" />
+      </a>
+      <br>Codeforces
+    </td>
+    <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/sarvxshyadav">
+        <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/150px-LinkedIn_logo_initials.png" alt="astroxphiliaux" height="48" width="48" />
+      </a>
+      <br> Linkedin
+    </td>
+    <td align="center" width="96">
+      <a href="https://discord.gg/Sarvesh#2424">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sarvesh#2424" height="48" width="48" />
+      </a>
+      <br> Discord
+    </td>
+             <td align="center" width="96">
+      <a href="https://x.com/SarvxshYadav?t=pYL-qhTgVHjToGmJO0oC1A&s=09" >
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="48" width="48" />
+      </a>
+      <br>X
+    </td>
+  </tr>
+</table>
 </br>
 
+
 ## Languages and Tools
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a><a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+      </a>
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="48" height="48" alt="Flutter" />
+      </a>
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="48" height="48" alt="Dart" />
+      </a>
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="48" height="48" alt="Firebase" />
+      </a>
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
+      </a>
+      <br>LaTeX
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+      </a>
+      <br>Postman
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+  </tr>
+</table>
 </br>
 
 ## My GitHub Stats
@@ -43,11 +146,7 @@
 ## Languages I Use Often (in my repos)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Astroxphiliauxx&theme=github_dark&show_icons=true&layout=compact&hide_border=true)](https://github.com/Astroxphiliauxx)
 
-## Profile Views
-![](https://komarev.com/ghpvc/?username=Astroxphiliauxx&style=flat-square)
 
 
 
-
-
-<p align="center"><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=astroxphiliauxx&theme=github-dark" alt="astroxphiliauxx" /></p>
+<p align="center"><img align="center" width="500" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=astroxphiliauxx&theme=github-dark" alt="GitHub Streak" /></p>
