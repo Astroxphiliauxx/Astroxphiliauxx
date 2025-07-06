@@ -14,7 +14,7 @@
 </br>
 
 ## I’m Sarvesh Kumar Yadav
-### Junior, AKGEC
+### Senior, AKGEC
 
 - 🌱 I’m currently learning **SMTHNG MYSTERIOUS**
 
