@@ -16,11 +16,11 @@
 ## I’m Sarvesh Kumar Yadav
 ### Senior, AKGEC
 
-- 🌱 I’m currently learning **SMTHNG MYSTERIOUS**
+- Making my own env - venv\Scripts\activate
 
-- 💬 Ask me about **Flutter**
+- Ask me about - Nothing! Just google it.
 
-- 📫 How to reach me **astroxphiliauxx@gmail.com**
+- How to reach me ? Be smart, It's visible to all.
  </br>
 
 ## Connect with me -
@@ -106,6 +106,12 @@
       </a>
       <br>Python
     </td>
+     <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/golang/golang-official.svg" width="60" height="60" alt="Go" />
+      </a>
+      <br>Go
+    </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" width="48" height="48" alt="LaTeX" />
@@ -129,6 +135,13 @@
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="48" height="48" alt="GitHub" />
       </a>
       <br>GitHub
+    </td>
+    </td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21~bgwhite.svg" width="48" height="70" alt="Linux" />
+      </a>
+      <br>Linux
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
