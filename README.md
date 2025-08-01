@@ -87,7 +87,7 @@ void main() {
 <br>
 
 
-## <img align="center" src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="36"> Languages & Tools :
+## <img align="center" src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages & Tools :
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,dart,go,python,latex,flutter,firebase,androidstudio,flask,fastapi,linux,postman,git,github&theme=dark" />
 </div>
@@ -106,31 +106,25 @@ void main() {
 
 
 
-## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="36"> GitHub Stats:
+## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> GitHub Stats:
 
-<div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=Astroxphiliauxx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6E76F2&icon_color=C084FC&text_color=FFFFFF&ring_color=27D796" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astroxphiliauxx&theme=tokyonight&show_icons=true&layout=compact&hide_border=true&bg_color=0D1117&title_color=6E76F2&icon_color=C084FC&text_color=FFFFFF" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=astroxphiliauxx&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&bg_color=0D1117&layout=compact&hide_border=false" alt="Your GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astroxphiliauxx&layout=compact&bg_color=0D1117&theme=tokyonight&hide_border=false" alt="Most Used Languages"/>
+</p>
+
 
 <br>
 <br>
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg2cDk0NjY2azczd2VzeWRqaWltcnNvN2pieWhyMzUzczA1ZjVidiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width= "40"> Featured Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg2cDk0NjY2azczd2VzeWRqaWltcnNvN2pieWhyMzUzczA1ZjVidiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UQJlZ2OcaCA2RLfGiZ/giphy.gif" width= "35"> Featured Projects
 
 <div align="center">
   <a href="https://github.com/Astroxphiliauxx/Neer-Manthan">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astroxphiliauxx&repo=Neer-Manthan&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=6E76F2&icon_color=C084FC&text_color=FFFFFF" alt="Neer-Manthan" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astroxphiliauxx&repo=Neer-Manthan&theme=tokyonight&layout=compact&hide_border=false&bg_color=0D1117&title_color=6E76F2&icon_color=C084FC&text_color=FFFFFF" alt="Neer-Manthan" />
   </a>
   <a href="https://github.com/Astroxphiliauxx/MediDoc-AI-Agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astroxphiliauxx&repo=MediDoc-AI-Agent&theme=tokyonight&hide_border=false&bg_color=0D1117&title_color=6E76F2&icon_color=C084FC&text_color=FFFFFF" alt="MediDoc-AI-Agent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Astroxphiliauxx&repo=MediDoc-AI-Agent&theme=tokyonight&hide_border=false&layout=compact&bg_color=0D1117&title_color=6E76F2&icon_color=C084FC&text_color=FFFFFF" alt="MediDoc-AI-Agent" />
   </a>
 </div>
 
