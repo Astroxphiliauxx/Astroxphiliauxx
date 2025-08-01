@@ -4,7 +4,9 @@
     </a>
   </div>
 
-  ## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ5aG1qbmtrcjN4ZHVjNWs3Y3o4ZXMzNTRhdGlnd3lndG94cWk4MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y9Fl2K4IlsRQdlo8EH/giphy.gif" width="300" style="float: left; margin-right: 16px;"/> <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&duration=3000&pause=1000&color=6E76F2&center=true&vCenter=true&width=600&height=65&lines=MOBILE+APP+DEVELOPER;CODE+CRAFTSMAN;PROBLEM+SOLVING+ENTHUSIAST;OPEN+SOURCE+CONTRIBUTOR" style="display: inline-block; margin: 0 auto;"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ5aG1qbmtrcjN4ZHVjNWs3Y3o4ZXMzNTRhdGlnd3lndG94cWk4MCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Y9Fl2K4IlsRQdlo8EH/giphy.gif" width="300" style="float: left; margin-right: 16px;"/> 
+  
+  ## <img align="right" src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&duration=3000&pause=1000&color=6E76F2&center=true&vCenter=true&width=600&height=65&lines=MOBILE+APP+DEVELOPER;CODE+CRAFTSMAN;PROBLEM+SOLVING+IS+LOVE;OPEN+SOURCE+CONTRIBUTOR" />
 
 <br>
 <br>
