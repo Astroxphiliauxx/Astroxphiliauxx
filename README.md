@@ -109,15 +109,15 @@ void main() {
 ## <img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40"> GitHub Stats:
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=astroxphiliauxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=astroxphiliauxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0D1117"/>
+  <img height="180" width= "400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=astroxphiliauxx&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&bg_color=0D1117"/>
+  <img height="180" width = "300" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=astroxphiliauxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=false&bg_color=0D1117"/>
 </div>
 
 
 <div align="center">
   <img 
     src="https://github-readme-activity-graph.vercel.app/graph?username=astroxphiliauxx&theme=tokyo-night&bg_color=0D1117"
-    width="830"
+    width="780"
   />
 </div>
 
