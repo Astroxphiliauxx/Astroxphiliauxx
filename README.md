@@ -66,10 +66,6 @@ void main() {
     <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=&logoColor=white&labelColor=0D1117" alt="X"/>
   </a>
 
-  <a href="https://discord.gg/Sarvesh#2424" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D1117" alt="Discord"/>
-  </a>
-
   <a href="https://www.codechef.com/users/astroxphiliaux" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white&labelColor=0D1117" alt="CodeChef"/>
   </a>
