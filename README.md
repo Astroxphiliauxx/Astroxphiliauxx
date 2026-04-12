@@ -85,7 +85,7 @@ void main() {
 
 ## <img align="center" src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="40"> Languages & Tools :
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,cpp,dart,go,docker,flutter,spring,grafana,prometheus,firebase,androidstudio,linux,postman,git,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,dart,go,docker,flutter,spring,grafana,prometheus,firebase,androidstudio,linux&theme=dark" />
 </div>
 <br>
 <br>
